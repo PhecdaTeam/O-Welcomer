@@ -1,0 +1,3 @@
+# To display player's name use %player% #
+Join: '&aWelcome %player% to server!'
+Quit: '%a%player% disconnected'
