@@ -19,11 +19,11 @@
 
 ## Install
 
-1. Go to releases page (Click)[https://github.com/Out69/O-Welcomer/releases]
-2. Download version of plugin that is compatible with your server version. (Assets section)
-3. Move O-Welcomer.jar to your `/plugins` server directory.
-4. Restart server
-5. And voilà!
+1. Go to releases page [Click](https://github.com/Out69/O-Welcomer/releases)
+3. Download version of plugin that is compatible with your server version. (Assets section)
+4. Move O-Welcomer.jar to your `/plugins` server directory.
+5. Restart server
+6. And voilà!
 
 ## Usage
 
