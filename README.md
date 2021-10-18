@@ -1,3 +1,4 @@
+# O-Welcomer
 <h1 align="center">Welcome to O-Welcomer 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -8,8 +9,8 @@
   </a>
 </p>
 
+Latest release: [Click This](https://github.com/Out69/O-Welcomer/releases/tag/1.0)
 > Plugin that displays messages on player join and quit. It's really that simple!
-
 ### 🏠 [Homepage](https://github.com/Out69/O-Welcomer#readme)
 
 ## Prerequisites
@@ -20,14 +21,17 @@
 ## Install
 
 1. Go to releases page [Click](https://github.com/Out69/O-Welcomer/releases)
-3. Download version of plugin that is compatible with your server version. (Assets section)
-4. Move O-Welcomer.jar to your `/plugins` server directory.
-5. Restart server
-6. And voilà!
+2. Download version of plugin that is compatible with your server version. (Assets section)
+3. Move O-Welcomer.jar to your `/plugins` server directory.
+4. Restart server
+5. And voilà!
 
-## Usage
-
-All settings are stored inside `/Welcomer/config.yml`
+## Config
+```
+To display player's name use %player%
+Join: '&aWelcome %player% to server!'
+Quit: '&a%player% disconnected'
+```
 
 ## Author
 
