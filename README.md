@@ -49,3 +49,9 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
+
+
+
+
+
+*still a shit code, but it can be*
